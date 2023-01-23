@@ -103,7 +103,7 @@ function agregarCarro() {
             break;
         }
         else {
-            alert("Entrada inválida. Seleccione una de las 6 opciones")
+            alert("Entrada inválida. Seleccione una de las 10 opciones")
         }
     }
 }
